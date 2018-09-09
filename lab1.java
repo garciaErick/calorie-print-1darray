@@ -2,6 +2,7 @@ import java.io.*;
 import java.util.*;
 import java.text.DecimalFormat;
 
+//Some comment
 class lab1{
   public static void main(String[] args) {
     int[] breakfast = new int[7]; //This is the array storage for breakfast for 7 days.
